@@ -12,10 +12,10 @@
  *   https://github.com/afrizal-id/whmcs-lang
  *
  * @package    WHMCS Lang-ID
- * @author     Afrizal <zall@e-padi.com>
+ * @author     Afrizal <zall@hostbelajar.web.id>
  * @copyright  Copyright (c) WHMCS Limited 2005-2018
  * @version    $Id$
- * @link       https://e-padi.com/
+ * @link       https://hostbelajar.web.id/
  */
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
@@ -129,7 +129,7 @@ $_LANG['cartemptyconfirm'] = "Apakah Anda yakin ingin mengosongkan keranjang bel
 $_LANG['404'] = "<font color='red'>Mohon maaf! Halaman ini telah Di hapus atau tidak tersedia</font>";
 $_LANG['cartexistingclientlogin'] = "Login Pelanggan";
 $_LANG['cartexistingclientlogindesc'] = "Untuk menambahkan pesanan ini ke akun yang terdaftar, Anda harus melakukan login terlebih dahulu di bawah ini.";
-$_LANG['cartnameserversdesc'] = "Silahkan ubah NameServer dibawah ini jika Anda Hosting di provider lain. Jika Anda hosting di server e-Padi.com, harap tidak mengubahnya.";
+$_LANG['cartnameserversdesc'] = "Silahkan ubah NameServer dibawah ini jika Anda Hosting di provider lain. Jika Anda hosting di server hostbelajar.web.id, harap tidak mengubahnya.";
 $_LANG['cartproductaddons'] = "Layanan Tambahan";
 $_LANG['cartproductaddonschoosepackage'] = "Pilih Paket";
 $_LANG['cartproductaddonsnone'] = "Maaf, Belum ada Layanan Tambahan yang tersedia untuk Anda";
@@ -281,7 +281,7 @@ $_LANG['clientareastatus'] = "Status";
 $_LANG['clientareasuspended'] = "DITANGGUHKAN";
 $_LANG['clientareaterminated'] = "TELAH DIHAPUS";
 $_LANG['clientareaticktoenable'] = "Centang untuk Mengaktifkan";
-$_LANG['clientareatitle'] = "e-Padi Member Area";
+$_LANG['clientareatitle'] = "HostBelajar Member Area";
 $_LANG['clientareaunlimited'] = "Unlimited";
 $_LANG['clientareaupdatebutton'] = "Perbarui";
 $_LANG['clientareaupdateyourdetails'] = "Ubah Data";
@@ -342,7 +342,7 @@ $_LANG['domainavailable2'] = "masih tersedia!";
 $_LANG['domainavailableexplanation'] = "Untuk mendaftarkan domain ini, silahkan klik pranala dibawah ini";
 $_LANG['domainbulksearch'] = "Pencarian banyak domain";
 $_LANG['domainbulksearchintro'] = "Pencarian domain dalam jumlah banyak memungkinkan Anda untuk mencari hingga 20 domain sekaligus. Masukkan domain dalam kolom di bawah ini, satu domain per baris - jangan masukkan www. atau http:// sebelum domain.";
-$_LANG['domainbulktransferdescription'] = "Tranfer domain Anda ke e-Padi. Ketik yang akan di transfer, satu domain per baris - tidak menyertakan www. atau http://";
+$_LANG['domainbulktransferdescription'] = "Tranfer domain Anda ke HostBelajar. Ketik yang akan di transfer, satu domain per baris - tidak menyertakan www. atau http://";
 $_LANG['domainbulktransfersearch'] = "Transfer banyak domain";
 $_LANG['domaincheckerdescription'] = "Cek ketersediaan domain yang Anda inginkan";
 $_LANG['domaincontactinfo'] = "Edit WHOIS Contact";
@@ -350,7 +350,7 @@ $_LANG['domaincurrentrenewaldate'] = "Tgl. Pembaruan Saat Ini";
 $_LANG['domaindnsaddress'] = "Alamat";
 $_LANG['domaindnshostname'] = "Hostname";
 $_LANG['domaindnsmanagement'] = "DNS Management";
-$_LANG['domaindnsmanagementdesc'] = "DNS Management digunakan untuk mengarahkan / pointing DNS records (sub-domain) ke IP yang anda inginkan.</br></br><strong>Catatan:</strong></br>Untuk dapat menggunakan fitur DNS Management ini, silahkan setting NameServer domain Anda menjadi: </br>NameServer 1: free1.e-padi.com </br>NameServer 2: free2.e-padi.com";
+$_LANG['domaindnsmanagementdesc'] = "DNS Management digunakan untuk mengarahkan / pointing DNS records (sub-domain) ke IP yang anda inginkan.</br></br><strong>Catatan:</strong></br>Untuk dapat menggunakan fitur DNS Management ini, silahkan setting NameServer domain Anda menjadi: </br>NameServer 1: free1.hostbelajar.web.id </br>NameServer 2: free2.hostbelajar.web.id";
 $_LANG['domaindnsrecordtype'] = "Jenis Records";
 $_LANG['domainemailforwarding'] = "Email Forwarding";
 $_LANG['domainemailforwardingdesc'] = "Jika Server Lajuan Email Untuk menentukan alamat tidak valid, kami akan menonaktifkan catatan lajuan secara otomatis. Silakan periksa Ke alamat sebelum Anda mengaktifkannya kembali. Perubahan pada catatan lajuan yang ada mungkin belum berlaku hingga 1 jam";
@@ -450,7 +450,7 @@ $_LANG['forwardingtogateway'] = "Kami telah mengirimkan tagihan ke Email Anda, s
 $_LANG['globalsystemname'] = "Home";
 $_LANG['globalyouarehere'] = "Navigasi";
 $_LANG['go'] = " Lanjutkan ";
-$_LANG['headertext'] = "Selamat Datang di Member Area e-Padi!";
+$_LANG['headertext'] = "Selamat Datang di Member Area HostBelajar!";
 $_LANG['hometitle'] = "Beranda";
 $_LANG['imagecheck'] = "Silakan masukkan kode keamanan yang ditampilkan dalam gambar - ini diperlukan untuk mencegah pengiriman otomatis";
 $_LANG['invoiceaddcreditamount'] = "Masukkan jumlah saldo";
@@ -601,14 +601,14 @@ $_LANG['ordercheckout'] = "Selesai ";
 $_LANG['orderchooseaddons'] = "Pilihan Produk Tambahan";
 $_LANG['orderchooseapackage'] = "Pilih Paket";
 $_LANG['ordercodenotfound'] = "Maaf, Kode Diskon yang Anda masukkan tidak tersedia";
-$_LANG['ordercompletebutnotpaid'] = "Setelah transfer pembayaran, lakukan Konfirmasi pembayaran Anda segera melalui SMS<br> ketik: <font color='blue'>PAID BCA/BNI/MANDIRI INVOICE#. Kirim ke 0811682661 atau<br>Kirim email ke zall@e-padi.com atau <br>Telp. 0651-8085936";
+$_LANG['ordercompletebutnotpaid'] = "Setelah transfer pembayaran, lakukan Konfirmasi pembayaran Anda segera melalui SMS<br> ketik: <font color='blue'>PAID BCA/BNI/MANDIRI INVOICE#. Kirim ke 0811682661 atau<br>Kirim email ke zall@hostbelajar.web.id atau <br>Telp. 0651-8085936";
 $_LANG['orderconfigpackage'] = "Konfigurasi Order";
 $_LANG['orderconfigure'] = "Konfigurasi Order";
 $_LANG['orderconfirmation'] = "Konfirmasi Pemesanan";
 $_LANG['orderconfirmorder'] = "Konfirmasi Pemasanan";
 $_LANG['ordercontinuebutton'] = "Lanjutkan ";
 $_LANG['orderdesc'] = "Keterangan";
-$_LANG['orderdescription'] = "Order Produk/Layanan e-Padi";
+$_LANG['orderdescription'] = "Order Produk/Layanan HostBelajar";
 $_LANG['orderdiscount'] = "Diskon";
 $_LANG['orderdomain'] = "Domain";
 $_LANG['orderdomainoption1part1'] = "Beli domain baru di ";
@@ -687,7 +687,7 @@ $_LANG['ordersecure'] = "Untuk keperluan hukum dan keamanan, kami telah mencatat
 $_LANG['ordersecure2'] = "dalam database kami.";
 $_LANG['orderserverhostname'] = "Server Hostname";
 $_LANG['orderservernameservers'] = "NameServer";
-$_LANG['orderservernameserversdescription'] = "Prefiks yang Anda masukkan di sini akan menentukan NameServer default untuk server misalnya. ns1.e-padi.com dan ns2.e-padi.com";
+$_LANG['orderservernameserversdescription'] = "Prefiks yang Anda masukkan di sini akan menentukan NameServer default untuk server misalnya. ns1.hostbelajar.web.id dan ns2.hostbelajar.web.id";
 $_LANG['orderservernameserversprefix1'] = "Prefiks 1";
 $_LANG['orderservernameserversprefix2'] = "Prefiks 2";
 $_LANG['orderserverrootpassword'] = "Password root";
@@ -699,7 +699,7 @@ $_LANG['ordersummary'] = "Rincian Order";
 $_LANG['ordertaxcalculations'] = "Perhitungan Pajak";
 $_LANG['ordertaxstaterequired'] = "Anda harus memasukkan Propinsi Anda untuk perhitungan pajak yang terjadi";
 $_LANG['ordertitle'] = "Order Sekarang!";
-$_LANG['ordertos'] = "Ketentuan Layanan e-Padi";
+$_LANG['ordertos'] = "Ketentuan Layanan HostBelajar";
 $_LANG['ordertosagreement'] = "Saya telah membaca dan menyetujui serta tunduk kepada";
 $_LANG['ordertotalduetoday'] = "Total Tagihan";
 $_LANG['ordertotalrecurring'] = "Tagihan Berikutnya";
@@ -729,7 +729,7 @@ $_LANG['recurring'] = "Berulang";
 $_LANG['recurringamount'] = "Biaya Perpanjang";
 $_LANG['every'] = "/";
 $_LANG['registerdomain'] = "Registrasi Domain";
-$_LANG['registerdomaindesc'] = "Ketik nama Domain yang ingin Anda daftar di e-Padi.";
+$_LANG['registerdomaindesc'] = "Ketik nama Domain yang ingin Anda daftar di HostBelajar.";
 $_LANG['registerdomainname'] = "Daftarkan Nama Domain";
 $_LANG['relatedservice'] = "Referensi Order";
 $_LANG['rssfeed'] = "Feed";
@@ -858,7 +858,7 @@ $_LANG['ticketratingpoor'] = "Buruk";
 $_LANG['ticketratingquestion'] = "Bagaimana Anda menilai jawaban ini?";
 $_LANG['ticketreatinggiven'] = "Rating penilaian Anda";
 $_LANG['transferdomain'] = "Transfer Domain";
-$_LANG['transferdomaindesc'] = "Ketik nama Domain yang ingin Anda transfer ke e-Padi.";
+$_LANG['transferdomaindesc'] = "Ketik nama Domain yang ingin Anda transfer ke HostBelajar.";
 $_LANG['transferdomainname'] = "Pindahkan Nama Domain";
 $_LANG['updatecart'] = " Klik untuk melanjutkan ";
 $_LANG['upgradechooseconfigoptions'] = "Upgrade / Downgrade pilihan yang dapat dikonfigurasi pada produk ini.";
@@ -891,7 +891,7 @@ $_LANG['clientareafiles'] = "File Terlampir";
 $_LANG['clientareafilesdate'] = "Tgl. Ditambahkan";
 $_LANG['clientareafilesfilename'] = "Nama File";
 $_LANG['pwreset'] = "Reset Password Member";
-$_LANG['pwresetdesc'] = "Ketik email Anda saat mendaftar di e-Padi dan jawab Pertanyaan Rahasia."; 
+$_LANG['pwresetdesc'] = "Ketik email Anda saat mendaftar di HostBelajar dan jawab Pertanyaan Rahasia."; 
 $_LANG['pwresetemailrequired'] = "Maaf, Anda belum memasukkan alamat Email";
 $_LANG['pwresetemailnotfound'] = "Maaf, Email yang Anda masukkan tidak ada dalam database client kami.";
 $_LANG['pwresetsecurityquestionrequired'] = "Silahkan menjawab Pertanyaan Rahasia dibawah ini.";
@@ -1106,9 +1106,9 @@ $_LANG['cartnameserverchoice'] = "Pilih NameServer";
 $_LANG['cartnameserverchoicedefault'] = "Gunakan Use default NameServer";
 $_LANG['cartnameserverchoicecustom'] = "Gunakan custom NameServer";
 $_LANG['cartfollowingaddonsavailable'] = "Layanan Tambahan yang tersedia untuk Produk Anda.";
-$_LANG['cartregisterdomainchoice'] = "Registrasi domain baru di e-Padi";
-$_LANG['carttransferdomainchoice'] = "Transfer domain dari provider lain ke e-Padi";
-$_LANG['cartexistingdomainchoice'] = "Sudah punya Domain, Saya hanya ingin order Hosting saja di e-Padi";
+$_LANG['cartregisterdomainchoice'] = "Registrasi domain baru di HostBelajar";
+$_LANG['carttransferdomainchoice'] = "Transfer domain dari provider lain ke HostBelajar";
+$_LANG['cartexistingdomainchoice'] = "Sudah punya Domain, Saya hanya ingin order Hosting saja di HostBelajar";
 $_LANG['cartsubdomainchoice'] = "Use a subdomain from %s";
 $_LANG['carterrordomainconfigskipped'] = "You must go back and complete the required domain configuration fields above";
 $_LANG['cartproductchooseoptions'] = "Pilih Opsi";
@@ -1234,7 +1234,7 @@ $_LANG['navservicesplaceorder'] = "Order Baru";
 $_LANG['navdomains'] = "Domain";
 $_LANG['navrenewdomains'] = "Perpanjang Domain";
 $_LANG['navregisterdomain'] = "Registrasi Domain Baru";
-$_LANG['navtransferdomain'] = "Transfer Domain ke e-Padi";
+$_LANG['navtransferdomain'] = "Transfer Domain ke HostBelajar";
 $_LANG['navwhoislookup'] = "Whois Domain";
 $_LANG['navbilling'] = "Tagihan";
 $_LANG['navinvoices'] = "Tagihan";
@@ -1329,7 +1329,7 @@ $_LANG['clientareacancelreasonrequired'] = "Mengapa Anda menghentikan layanan in
 $_LANG['creditcardexpirydateinvalid'] = "The expiry date must be entered in the format MM/YY and must not be in the past";
 $_LANG['domaincheckerchoosedomain'] = "Check ketersediaan domain yang Anda inginkan...";
 $_LANG['domaincheckerchecknewdomain'] = "Mau registrasi domain baru, Check dulu disini...";
-$_LANG['domaincheckerdomainexample'] = " contoh: e-padi.com";
+$_LANG['domaincheckerdomainexample'] = " contoh: hostbelajar.web.id";
 $_LANG['domaincheckerinvalidtld'] = "TLD (extension) yang Anda ketik tidak valid. Silakan coba lagi.";
 $_LANG['domaincheckerhostingonly'] = "Order Hosting Saja (sudah punya domain)";
 $_LANG['domaincheckeravailtransfer'] = "Tersedia untuk di Transfer";
@@ -1349,7 +1349,7 @@ $_LANG['jobtitlereqforcompany'] = "(Required if Organization Name is set)";
 $_LANG['downloadproductrequired'] = "Downloading this item requires you to have an active instance of the following product/service:";
 
 # Affiliate
-$_LANG['affiliatesignuptitle'] = "Dapatkan komisi dari e-Padi";
+$_LANG['affiliatesignuptitle'] = "Dapatkan komisi dari HostBelajar";
 $_LANG['affiliatesignupintro'] = "Aktifkan akun Affiliasi Anda sekarang juga!";
 $_LANG['affiliatesignupinfo1'] = "Komisi dibayar dari setiap client yang mendaftar melalui link affiliasi Anda.";
 $_LANG['affiliatesignupinfo2'] = "Dilengkapi dengan laporan transaksi affiliasi.";
@@ -1442,7 +1442,7 @@ $_LANG['domainaddons'] = "Fitur Tambahan";
 $_LANG['domainaddonsinfo'] = "Fitur Tambahan yang tersedia untuk Domain Anda. Silahkan diaktifkan sesuai kebutuhan.";
 $_LANG['domainaddonsdnsmanagement'] = "DNS Record Management";
 $_LANG['domainaddonsidprotectioninfo'] = "Aktifkan fitur ini jika Anda ingin menyembunyikan identitas pribadi pemilik domain pada Whois Domain tools.";
-$_LANG['domainaddonsdnsmanagementinfo'] = "Aktifkan fitur ini jika Anda ingin mengelola DNS Zones menggunakan DNS Server gratis dari e-Padi.";
+$_LANG['domainaddonsdnsmanagementinfo'] = "Aktifkan fitur ini jika Anda ingin mengelola DNS Zones menggunakan DNS Server gratis dari HostBelajar.";
 $_LANG['domainaddonsemailforwardinginfo'] = "Forward email yang masuk ke domain Anda ke email alternatif.";
 $_LANG['domainaddonsbuynow'] = "Aktifkan biaya";
 $_LANG['domainaddonsperyear'] = "/tahun";
@@ -1591,11 +1591,11 @@ $_LANG['notificationsnone'] = "Anda belum memiliki pemberitahuan.";
 $_LANG['creditcardnonestored'] = "Kartu kredit tidak ada dalam database";
 $_LANG['kbviewingarticlestagged'] = "Lihat artikel yang di tandain";
 $_LANG['domainprivatenameservers'] = "Private NameServers";
-$_LANG['transferinadomain'] = "Transfer Domain ke e-Padi";
+$_LANG['transferinadomain'] = "Transfer Domain ke HostBelajar";
 $_LANG['nodomainextensions'] = "Ekstensi domain yang akan dibeli belum di konfigurasi dengan benar.";
 $_LANG['homebegin'] = "Apa nama domain yang akan Anda daftarkan hari ini...";
 $_LANG['howcanwehelp'] = "Akses Cepat?";
-$_LANG['exampledomain'] = "misal. e-padi.com";
+$_LANG['exampledomain'] = "misal. hostbelajar.web.id";
 $_LANG['buyadomain'] = "Order Domain";
 $_LANG['orderhosting'] = "Lihat Produk";
 $_LANG['makepayment'] = "Pembayaran";
@@ -1612,7 +1612,7 @@ $_LANG['passwordtips'] = "<strong>Tips Keamanan Password</strong><br />Untuk men
 $_LANG['regdate'] = "Tgl. Daftar";
 $_LANG['nextdue'] = "Expire";
 $_LANG['domaincheckertagline'] = "Cari nama domain terbaik untuk Anda daftarkan...";
-$_LANG['findyourdomain'] = "misal: e-padi";
+$_LANG['findyourdomain'] = "misal: HostBelajar";
 $_LANG['searchtermrequired'] = "Anda harus ketik nama domain atau kata kunci untuk mencari";
 $_LANG['unabletolookup'] = "Maaf, system tidak dapat menemukan domain untuk kata kunci yang Anda cari";
 $_LANG['invalidchars'] = "Spasi dan simbol tidak dibenarkan untuk domain";
@@ -1823,7 +1823,7 @@ $_LANG['featuredProduct'] = "Terpopuler";
 $_LANG['shoppingCartProductPerMonth'] = "<span>:price</span>/:countmo";
 $_LANG['shoppingCartProductPerYear'] = "<span>:price</span>/:countyr";
 $_LANG['orderForm']['findNewDomain'] = "Temukan dan Daftarkan nama domain terbaik Anda. Ketik kata kunci untuk memulai pencarian domain.";
-$_LANG['orderForm']['transferExistingDomain'] = "Pindahkan domain Anda dari provider lain ke ke e-Padi.";
+$_LANG['orderForm']['transferExistingDomain'] = "Pindahkan domain Anda dari provider lain ke ke HostBelajar.";
 $_LANG['orderForm']['www'] = "www.";
 $_LANG['orderForm']['returnToClientArea'] = "Kembali ke Member Area";
 $_LANG['orderForm']['checkout'] = "Checkout";
@@ -1907,7 +1907,7 @@ $_LANG['cPanel']['usageStatsDiskOverLimit'] = "Disk Quota hosting Anda sudah pen
 $_LANG['only'] = "Hanya";
 $_LANG['startingat'] = "Mulai dari";
 
-$_LANG['yourdomainplaceholder'] = 'e-padi';
+$_LANG['yourdomainplaceholder'] = 'HostBelajar';
 $_LANG['yourtldplaceholder'] = 'com';
 
 $_LANG['subaccountpermsproductsso'] = "Single Sign-On";
@@ -1946,7 +1946,7 @@ $_LANG['markdown']['genericListItem']= "Generic list item";
 $_LANG['markdown']['numberedListItem']= "Numbered list item";
 $_LANG['markdown']['links']= "Links";
 $_LANG['markdown']['textToDisplay']= "Text untuk ditampilkan";
-$_LANG['markdown']['exampleLink']= "https://e-padi.com";
+$_LANG['markdown']['exampleLink']= "https://hostbelajar.web.id";
 $_LANG['markdown']['quotes']= "Quotes";
 $_LANG['markdown']['thisIsAQuote']= "Ini adalah penawaran.";
 $_LANG['markdown']['quoteMultipleLines']= "It can span multiple lines!";
@@ -1991,7 +1991,7 @@ $_LANG['orderForm']['addHosting'] = "Tambah Web Hosting";
 $_LANG['orderForm']['chooseFromRange'] = "Pilih dari berbagai paket web hosting yang tersedia";
 $_LANG['orderForm']['packagesForBudget'] = "Kami memiliki paket yang dirancang agar sesuai dengan anggaran website Anda";
 $_LANG['orderForm']['exploreNow'] = "Lihat Layanan yang tersedia";
-$_LANG['orderForm']['transferToUs'] = "Transfer domain ke e-Padi";
+$_LANG['orderForm']['transferToUs'] = "Transfer domain ke HostBelajar";
 $_LANG['orderForm']['transferExtend'] = "Otomatis akan menambah 1 tahun masa aktif domain!";
 $_LANG['orderForm']['transferDomain'] = "Transfer domain";
 $_LANG['orderForm']['extendExclusions'] = "Kecuali TLD (extension) tertentu dan domain yang baru aktif kurang dari 10 hari.";
@@ -2015,7 +2015,7 @@ $_LANG['orderForm']['transferAlternativelyRegister'] = 'Atau Anda dapat mendafta
 $_LANG['orderForm']['domainInvalid'] = 'Nama domain tidak valid';
 $_LANG['orderForm']['domainInvalidCheckEntry'] = 'Periksa kembali ketikan Anda dan coba lagi.';
 $_LANG['orderForm']['domainPriceRegisterLabel'] = 'Klik tombol <strong>Lanjutkan</strong> jika Anda ingin registrasi Domain diatas dengan harga';
-$_LANG['orderForm']['domainPriceTransferLabel'] = 'Transfer domain ke e-Padi.com akan menambah masa aktif 1 tahun*. Biaya transfer adalah';
+$_LANG['orderForm']['domainPriceTransferLabel'] = 'Transfer domain ke hostbelajar.web.id akan menambah masa aktif 1 tahun*. Biaya transfer adalah';
 
 $_LANG['change'] = "Ubah";
 
@@ -2123,8 +2123,8 @@ $_LANG['ssl']['retrieveCertificate'] = "Retrieve Certificate";
 $_LANG['upgradeCredit'] = "Upgrade Credit";
 $_LANG['upgradeCreditDescription'] = "Calculation based on :daysRemaining unused days of :totalDays totals days in the current billing cycle.";
 
-$_LANG['orderForm']['domainExtensionTransferNotSupported'] = "Domain Anda tidak dapat ditransfer ke e-Padi.com karena Extensi tidak didukung. Silahkan transfer domain lainnya.";
-$_LANG['orderForm']['domainExtensionTransferPricingNotConfigured'] = "Domain Anda tidak dapat ditransfer ke e-Padi.com karena kamit tidak lagi menerima Extensi tersebut. Silahkan transfer domain lainnya.";
+$_LANG['orderForm']['domainExtensionTransferNotSupported'] = "Domain Anda tidak dapat ditransfer ke hostbelajar.web.id karena Extensi tidak didukung. Silahkan transfer domain lainnya.";
+$_LANG['orderForm']['domainExtensionTransferPricingNotConfigured'] = "Domain Anda tidak dapat ditransfer ke hostbelajar.web.id karena kamit tidak lagi menerima Extensi tersebut. Silahkan transfer domain lainnya.";
 
 $_LANG['remoteAuthn']['success'] = 'Success!';
 $_LANG['remoteAuthn']['errorExclamation'] = 'Error!';
